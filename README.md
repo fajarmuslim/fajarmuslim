@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-<!--
-**fajarmuslim/fajarmuslim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
+
+I am Fajar, computer scince student of ITB
+
+Currently i am working as a software engineer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +14,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
